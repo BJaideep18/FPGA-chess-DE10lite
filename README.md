@@ -1,4 +1,4 @@
-# FPGA Chess — Intel MAX10 DE10-Lite
+# FPGA Chess on Intel MAX10 DE10-Lite
 
 Developed a fully functional chess game on an Intel MAX10 FPGA using SystemVerilog. The game runs on a VGA monitor at 640×480, accepts input via a matrix keypad, enforces all official chess rules in hardware, and renders the board and pieces procedurally at the pixel level all without a soft-core processor or external memory.
 
