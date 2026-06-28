@@ -89,7 +89,7 @@ Seven hardware modules instantiated in `chess_top.sv`:
 **6. Program the board**
 - Tools → Programmer → Auto Detect → Add File (`output_files/chess_top.sof`) → Start
 - Connect VGA cable and keypad to GPIO_1
-- Press KEY[0] to reset — chess board appears on monitor
+- Press KEY[0] to reset chess board appears on monitor
 
 ---
 
